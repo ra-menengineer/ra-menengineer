@@ -1,0 +1,4 @@
+mkdir kadai_004
+mkdir kadai_004move
+touch kadai_004.txt
+mv kadai_004 kadai004move
